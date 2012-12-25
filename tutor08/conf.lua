@@ -1,3 +1,3 @@
 function love.conf(t)
-  t.title = "Tutor08 角色移动"
+  t.title = "Tutor08 动画"
 end
