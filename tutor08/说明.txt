@@ -1,0 +1,1 @@
+后来用middleclass重写了,还有把play改了,可以不用看这里的了,直接看tutor08-fix
